@@ -1,4 +1,3 @@
-<script>
 var A = Math.floor(Math.random()*28);
 var S;
 
@@ -60,5 +59,3 @@ else if (A == 27)
 	S = "Race Track";
 
 document.write(S);
-
-</script>
